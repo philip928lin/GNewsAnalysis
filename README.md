@@ -6,7 +6,7 @@ GNewsAnalysis 由 [gnewsclient](https://github.com/nikhilkumarsingh/gnewsclient/
 1. 使用 Google News 搜尋引擎搜尋相關新聞
 2. 文章關鍵字提取
 3. 文字雲
-
+![](https://i.imgur.com/Vqs484E.png)
 ## Install
 1. Download GNewsAnalysis
 1. cd to unzipped GNewsAnalysis folder
