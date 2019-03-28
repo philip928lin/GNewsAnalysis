@@ -1,0 +1,4 @@
+include GNewsAnalysis/font/NotoSerifCJKtc-hinted/NotoSerifCJKtc-Black.otf
+include GNewsAnalysis/font/NotoSerifCJKtc-hinted/LICENSE_OFL.txt
+include GNewsAnalysis/dict/dict.txt.big
+include README.md
