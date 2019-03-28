@@ -30,7 +30,7 @@ g = G.SearchNews()
 # View the initial configuration for Google news search
 g.get_config()
 
-# View the options 
+# View options 
 g.editions
 g.languages
 g.orders
