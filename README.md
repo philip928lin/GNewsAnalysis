@@ -2,11 +2,15 @@
 Python package for google news search and analysis.
 
 ## Dscription
-GNewsAnalysis 由 [gnewsclient](https://github.com/nikhilkumarsingh/gnewsclient/tree/master/gnewsclient) 為主軸，整合 [newpaper](https://newspaper.readthedocs.io/en/latest/), [jeiba](https://github.com/fxsjy/jieba) 與 [wordcloud](https://github.com/amueller/word_cloud) 而成，其功能包含:
-1. 使用 Google News 搜尋引擎搜尋相關新聞
-2. 文章關鍵字提取
-3. 文字雲
+GNewsAnalysis is modified from [gnewsclient](https://github.com/nikhilkumarsingh/gnewsclient/tree/master/gnewsclient) and integrates [newpaper](https://newspaper.readthedocs.io/en/latest/), [jeiba](https://github.com/fxsjy/jieba) and [wordcloud](https://github.com/amueller/word_cloud) to perform "search" and "analysis" of google news. 
+
+Functions:
+1. Custermize search of Google News 
+2. Keywords extraction  (limited to Chinese. It can be release in the future.)
+3. Wordcloud  (limited to Chinese. It can be release in the future.)
 ![](https://i.imgur.com/Vqs484E.png)
+Demontration of searching "氣候變遷" ("Climate change").
+
 ## Install
 1. Download GNewsAnalysis
 1. cd to unzipped GNewsAnalysis folder
